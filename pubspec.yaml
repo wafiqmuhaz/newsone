@@ -21,7 +21,7 @@ dependencies:
   hive: ^2.2.3
   http: ^0.13.5
   hydrated_bloc: ^9.1.0
-  intl: ^0.17.0
+  # intl: ^0.18.0
   share_plus: ^6.3.1
   shimmer: ^2.0.0
   transition: ^2.0.2
@@ -37,6 +37,10 @@ dev_dependencies:
   mocktail: ^0.3.0
   very_good_analysis: ^4.0.0
   flutter_launcher_icons: "^0.11.0"
+
+dependency_overrides:
+  intl: 0.17.0
+
 
 flutter_icons:
   android: "launcher_icon"
