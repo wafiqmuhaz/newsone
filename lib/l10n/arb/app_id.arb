@@ -1,0 +1,29 @@
+{
+    "@@locale": "id",
+    "counterAppBarTitle": "Pertambahan",
+    "@counterAppBarTitle": {
+        "description": "Teks ini ditampilkan di dalam Bar aplikasi dari Halaman Pertambahan"
+    },
+    "categories": "Semua Kategori",
+    "all": "Semua",
+    "science": "Sains",
+    "technology": "Teknologi",
+    "automobile": "Automobile",
+    "entertainment": "Hiburan",
+    "sport": "Olahraga",
+    "world": "Dunia",
+    "business": "Bisnis",
+    "politics": "Politik",
+    "startup": "Startup",
+    "somethingdifferent": "Sesuatu yang Berbeda",
+    "miscellaneous": "Bermacam-macam",
+    "copyLink": "Salin Tautan",
+    "openInBrowser": "Buka di browser",
+    "shereVia": "Bagikan Melalui",
+    "news": "News",
+    "one": "One",
+    "linkCopied": "Tautan Disalin",
+    "happyReading": "Selamat Membaca",
+    "backOnline": "Anda kembali Online",
+    "youAreOffline": "Anda Sedang Offline"
+}

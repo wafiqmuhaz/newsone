@@ -1,0 +1,95 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "categories": "Categories",
+    "@categories": {
+        "description": "These are the categories of news"
+    },
+    "all": "All",
+    "@all": {
+        "description": "All categories"
+    },
+    "science": "Science",
+    "@science": {
+        "description": "Science category"
+    },
+    "technology": "Technology",
+    "@technology": {
+        "description": "Technology category"
+    },
+    "automobile": "Automobile",
+    "@automobile": {
+        "description": "Automobile category"
+    },
+    "entertainment": "Entertainment",
+    "@entertainment": {
+        "description": "Entertainment category"
+    },
+    "sport": "Sport",
+    "@sport": {
+        "description": "Sport category"
+    },
+    "world": "World",
+    "@world": {
+        "description": "World category"
+    },
+    "business": "Business",
+    "@business": {
+        "description": "Business category"
+    },
+    "politics": "Politics",
+    "@politics": {
+        "description": "Politics category"
+    },
+    "startup": "Startup",
+    "@startup": {
+        "description": "Startup category"
+    },
+    "somethingdifferent": "Something Different",
+    "@somethingdifferent": {
+        "description": "Something Different category"
+    },
+    "miscellaneous": "Miscellaneous",
+    "@miscellaneous": {
+        "description": "Miscellaneous category"
+    },
+    "copyLink": "Copy Link",
+    "@copyLink": {
+        "description": "Copy Link"
+    },
+    "openInBrowser": "Open In Browser",
+    "@openInBrowser": {
+        "description": "Open In Browser"
+    },
+    "shareVia": "Share Via",
+    "@shareVia": {
+        "description": "Share Via"
+    },
+    "news": "News",
+    "@news": {
+        "description": "News"
+    },
+    "one": "One",
+    "@one": {
+        "description": "One"
+    },
+    "linkCopied": "Link Copied",
+    "@linkCopied": {
+        "description": "Link Copied"
+    },
+    "happyReading": "Happy Reading",
+    "@happyReading": {
+        "description": "Happy Reading Guys"
+    },
+    "backOnline": "You are back Online",
+    "@backOnline": {
+        "description": "back Online"
+    },
+    "youAreOffline": "You are Offline",
+    "@youAreOffline": {
+        "description": "You are Offline"
+    }
+}

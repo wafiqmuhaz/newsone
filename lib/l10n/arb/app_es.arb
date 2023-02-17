@@ -1,0 +1,29 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "categories": "Todas las categorías",
+    "all": "Todo",
+    "science": "Ciencia",
+    "technology": "Tecnología",
+    "automobile": "Automóvil",
+    "entertainment": "Entretenimiento",
+    "sport": "Deportes",
+    "world": "Mundo",
+    "business": "Negocio",
+    "politics": "Política",
+    "startup": "Inicio",
+    "somethingdifferent": "Algo diferente",
+    "miscellaneous": "Misceláneos",
+    "copyLink": "copiar link",
+    "openInBrowser": "Abierta en el navegador",
+    "shereVia": "Compartir via",
+    "news": "Noticias",
+    "one": "uno",
+    "linkCopied": "Enlace copiado",
+    "happyReading": "Feliz Lectura",
+    "backOnline": "Estás de vuelta en línea",
+    "youAreOffline": "Estas desconectado"
+}
