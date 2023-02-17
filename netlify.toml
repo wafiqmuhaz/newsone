@@ -1,4 +1,4 @@
 [build]
   command = "git clone https://github.com/flutter/flutter.git
-             flutter/bin/flutter build web --release --target=lib/main_deployment.dart"
+             flutter/bin/flutter build web --release --target=lib/main_production.dart"
   publish = "build/web"
