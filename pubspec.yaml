@@ -27,16 +27,16 @@ dependencies:
   transition: ^2.0.2
   url_launcher: ^6.1.9
   webview_flutter: ^4.0.2
-  webview_flutter_android: ^3.2.4
-  webview_flutter_wkwebview: ^3.0.5
+  webview_flutter_android: ^3.3.0
+  webview_flutter_wkwebview: ^3.1.0
 
 dev_dependencies:
   bloc_test: ^9.1.1
   flutter_test:
     sdk: flutter
   mocktail: ^0.3.0
-  very_good_analysis: ^4.0.0
-  flutter_launcher_icons: "^0.11.0"
+  very_good_analysis: ^4.0.0+1
+  flutter_launcher_icons: ^0.11.0
 
 dependency_overrides:
   intl: 0.17.0
