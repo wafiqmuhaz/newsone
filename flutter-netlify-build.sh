@@ -19,4 +19,4 @@ git pull origin $FLUTTER_BRANCH
 git checkout $FLUTTER_REVISION
 cd ..
 
-flutter/bin/flutter build web --release
+flutter/bin/flutter build web --release --target='lib/main_development.dart'
