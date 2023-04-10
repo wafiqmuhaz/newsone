@@ -28,7 +28,7 @@ dependencies:
   url_launcher: ^6.1.9
   webview_flutter: ^4.0.2
   webview_flutter_android: ^3.3.0
-  webview_flutter_wkwebview: ^3.1.0
+  webview_flutter_wkwebview: ^3.2.4
 
 dev_dependencies:
   bloc_test: ^9.1.1
