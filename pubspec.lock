@@ -802,7 +802,7 @@ packages:
       name: webview_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.0.2"
+    version: "4.1.0"
   webview_flutter_android:
     dependency: "direct main"
     description:
@@ -816,7 +816,7 @@ packages:
       name: webview_flutter_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.1"
+    version: "2.2.0"
   webview_flutter_wkwebview:
     dependency: "direct main"
     description:
